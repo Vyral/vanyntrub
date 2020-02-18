@@ -30,28 +30,28 @@ client:
   phone_type:
   phone2:
   phone2_type:
-  email: Greg@results.net
-  url: https://Vayntrub.com
+  email: Vayntrub@results.net
+  url: https://gregvayntrub.results.net
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: http://www.mnpreviewproperties.com/free_home_valuation.asp
+  first_CTA_URL: https://gregvayntrub.results.net/home-evaluation/
   second_CTA_text: Home Search
-  second_CTA_URL: http://www.mnpreviewproperties.com/dream_home_finder.asp
+  second_CTA_URL: https://gregvayntrub.results.net/real-estate/
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: http://www.mnpreviewproperties.com/free_home_valuation.asp
+    CTA_url: https://gregvayntrub.results.net/home-evaluation/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: http://www.mnpreviewproperties.com/dream_home_finder.asp
+    CTA_url2: https://gregvayntrub.results.net/real-estate/
 
 lender:
   show_section: false
