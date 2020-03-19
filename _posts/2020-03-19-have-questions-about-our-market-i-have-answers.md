@@ -17,6 +17,8 @@ youtube_code: 'https://youtu.be/k1VB6fPz2CQ'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here’s the latest news from our Minneapolis market.</em></p>
+
 I’m getting a lot of questions about our market lately, so I’ll take a moment to fill you in on what’s happening. Inventory is low, which means sellers have a good chance at selling at a higher price. Interest rates are historically low, which means buyers can afford more of a home. **In short, our market is very hot.**
 
 If you have any questions or are thinking of buying or selling, don’t hesitate to reach out to me. I’d love to help.
