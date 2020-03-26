@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Homes are Still Being Bought and Sold
+title: Homes Are Still Being Bought and Sold
 date: 2020-03-26 16:42:23
 tags:
   - Real Estate
