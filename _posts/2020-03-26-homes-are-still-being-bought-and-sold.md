@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Homes Are Still Being Bought and Sold
-date: 2020-03-26 16:42:23
+date: 2020-03-26 16:42:00
 tags:
   - Real Estate
 excerpt: 'It’s the topic on everyone’s minds: the coronavirus.'
@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/greg-and-polina-vayntrub-coronavirus-youtube.jpg
-youtube_code: 'https://youtu.be/kADyXXPZ2aE'
+youtube_code: 'https://youtu.be/zbzQfowZ384'
 ---
 
 {% include youtube.html %}
