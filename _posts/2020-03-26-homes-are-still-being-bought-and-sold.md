@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/greg-and-polina-vayntrub-coronavirus-youtube.jpg
-youtube_code: 'https://youtu.be/eDp201vCjuE'
+youtube_code: 'https://youtu.be/kADyXXPZ2aE'
 ---
 
 {% include youtube.html %}
